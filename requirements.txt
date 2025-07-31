@@ -1,5 +1,0 @@
-ebooklib
-pymupdf
-customtkinter
-Pillow
-cx_Freeze
