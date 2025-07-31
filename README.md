@@ -1,5 +1,5 @@
 # PDF TO EPUB Converter GUI software in Python
-## Forked from TufayelLUS
+#### Forked from TufayelLUS
 
 This is a software that helps you generate calibre style epub file from a given PDF file. <br>
 
@@ -13,5 +13,8 @@ cd REPO
 poetry install
 
 # Working for MacOS, not tested on Windows or Linux, should be same
-poetry run pyinstaller epub_maker.py --windowed --icon icon.png
+poetry run pyinstaller epub_maker.py --name "Epub Maker" --windowed --icon icon.png
 ```
+
+# MacOS
+You can drop dist/Epub Maker.app in application folder
