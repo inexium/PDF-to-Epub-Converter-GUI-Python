@@ -1,5 +1,5 @@
 [project]
-name = "pdf-to-epub-converter-gui-python"
+name = "epub_maker"
 version = "0.1.0"
 description = ""
 authors = [
